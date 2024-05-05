@@ -22,7 +22,3 @@ To install and run the LangChain Chatbot locally, follow these steps:
 ## Usage
 
 Once the chatbot is running, you can interact with it through various channels such as a web interface, messaging platforms, or APIs.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
