@@ -25,4 +25,4 @@ Once the chatbot is running, you can interact with it through various channels s
 
 
 ## Youtube Link:
-[📹](https://www.youtube.com/watch?v=U8LSXRO0HsU)
+📹 You can reach video from -> [this](https://www.youtube.com/watch?v=U8LSXRO0HsU)
